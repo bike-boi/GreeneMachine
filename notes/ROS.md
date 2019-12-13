@@ -16,6 +16,7 @@ __-Sean__
 ROS contains many command line tools. See [ROS Wiki](http://wiki.ros.org/ROS/CommandLineTools) for a list, but I can't guarantee they will all work for our ROS distro.
 
 ## Which ROS distro for your ubuntu version?
+From [ROS Forums](https://answers.ros.org/question/233818/which-is-the-best-ubuntu-version-to-use-for-ros/)
 * kinetic: 15.10, 16.04
 * jade: 14.04, 14.10, 15.04
 * indigo (what we're using): 13.10, 14.04
@@ -24,4 +25,4 @@ ROS contains many command line tools. See [ROS Wiki](http://wiki.ros.org/ROS/Com
 * fuerte: 10.04, 11.10, 12.04
 * electric: 10.04, 10.10, 11.04, 11.10
 * diamondback: 10.04, 10.10, 11.04
-* cturtle: 9.04, 9.10, 10.04, 10.10
+* cturtle: 9.04, 9.10, 10.04, 10.10s
