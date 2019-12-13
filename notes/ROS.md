@@ -10,7 +10,8 @@
 
 __Dear team,
 Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)). I'm tired of going in circles.
-	-Sean__
+
+-Sean__
 
 ## ROS commands
 ROS contains many command line tools. See [ROS Wiki](http://wiki.ros.org/ROS/CommandLineTools) for a list, but I can't guarantee they will all work for our ROS distro.
