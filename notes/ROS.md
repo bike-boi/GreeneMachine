@@ -8,10 +8,9 @@
 		*	Needs to be setup. See [jetsonhacks.com](https://www.jetsonhacks.com/2017/06/01/get-your-motor-running-vesc-jetson-racecar-build/)
 	*	To be continued...
 
-__Dear team,
-Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)). I'm tired of going in circles.
+__Dear team, Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)). I'm tired of going in circles.__
 
--Sean__
+__-Sean__
 
 ## ROS commands
 ROS contains many command line tools. See [ROS Wiki](http://wiki.ros.org/ROS/CommandLineTools) for a list, but I can't guarantee they will all work for our ROS distro.
