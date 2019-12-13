@@ -9,7 +9,7 @@
 	*	To be continued...
 
 __Dear team,
-    Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)). I'm tired of going in circles.
+Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)). I'm tired of going in circles.
 	-Sean__
 
 ## ROS commands
