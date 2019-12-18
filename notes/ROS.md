@@ -1,14 +1,14 @@
 # ROS Notes
 ## Our setup
-* Distro: ROS Indigo
+* Distro: ROS Kinetic
 * Nodes
-	* hokoyu_node (Lidar)
-		* Needs to be setup. See [daslhub.org](http://www.daslhub.org/unlv/wiki/doku.php?id=using_ros_to_read_data_from_a_hokuyo_scanning_laser_rangefinder)
+	* urg_node (Lidar)
+		* See [ROS Wiki](http://wiki.ros.org/urg_node)
 	* vesc (speed controller)
 		*	Needs to be setup. See [jetsonhacks.com](https://www.jetsonhacks.com/2017/06/01/get-your-motor-running-vesc-jetson-racecar-build/)
 	*	To be continued...
 
-__Dear team, Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)). I'm tired of going in circles.__
+__Dear team, Before messing with ROS, please try and understand the basic principles (see [ROS Wiki](http://wiki.ros.org/ROS/Introduction)).__
 
 __-Sean__
 
