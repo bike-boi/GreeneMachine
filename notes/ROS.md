@@ -17,9 +17,9 @@ ROS contains many command line tools. See [ROS Wiki](http://wiki.ros.org/ROS/Com
 
 ## Which ROS distro for your ubuntu version?
 From [ROS Forums](https://answers.ros.org/question/233818/which-is-the-best-ubuntu-version-to-use-for-ros/)
-* kinetic: 15.10, 16.04
+* kinetic (what we're using): 15.10, 16.04
 * jade: 14.04, 14.10, 15.04
-* indigo (what we're using): 13.10, 14.04
+* indigo: 13.10, 14.04
 * hydro: 12.04, 12.10, 13.04
 * groovy: 11.10, 12.04, 12.10
 * fuerte: 10.04, 11.10, 12.04
